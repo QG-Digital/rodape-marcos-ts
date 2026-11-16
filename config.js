@@ -1,8 +1,8 @@
 const CONFIG = {
     contact: {
-        whatsappNumber: "5543996349824",
+        whatsappNumber: "554396975141",
         email: "comercial@rodapespremium.com.br",
-        phone: "(43) 99634-9824",
+        phone: "(43) 9697-5141",
         location: "Londrina - PR, Brasil",
         googleMapsLink: "https://www.google.com/maps/place/Londrina,+PR",
         defaultWhatsappMessage: "Olá! Vi o site da Rodapés Premium e gostaria de mais informações."
